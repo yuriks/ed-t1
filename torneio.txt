@@ -1,0 +1,23 @@
+Teste1-----------------------v
+                             |Teste1: 24----v
+                             |Star Trek: 14 |
+Star Trek--------------------^
+                                            |Teste1: 24----
+                                            |Dota: 22
+Star Wars--------------------v
+                             |Star Wars:  5 |
+                             |Dota: 24------^
+Dota----------v
+              |Dota: 24------^
+              |Starcraft: 16
+Starcraft-----^
+
+
+################################################################################
+
+Equipe vencedora:
+
+Equipe 5: Teste1
+  Integrante 1: Fulano
+  Integrante 2: Ciclano
+  Integrante 3: Beltrano

@@ -1,0 +1,22 @@
+<truco trios="4">
+	<trio apelido="Star Wars" id="1">
+		<jogador>Chewbacca</jogador>
+		<jogador>Vader</jogador>
+		<jogador>Yoda</jogador>
+	</trio>
+	<trio apelido="Starcraft" id="2">
+		<jogador>Terran</jogador>
+		<jogador>Zerg</jogador>
+		<jogador>Protoss</jogador>
+	</trio>
+	<trio apelido="Dota" id="3">
+		<jogador>Centauro WarChief</jogador>
+		<jogador>Knight Davion</jogador>
+		<jogador>Huskar</jogador>
+	</trio>
+	<trio apelido="Star Trek" id="4">
+		<jogador>Kirk</jogador>
+		<jogador>Scotty</jogador>
+		<jogador>Spock</jogador>
+	</trio>
+</truco>
